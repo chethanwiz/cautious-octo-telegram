@@ -1,0 +1,23 @@
+{
+    "dailyChests": [
+      {"day": 1, "reward": 500},
+      {"day": 2, "reward": 625},
+      {"day": 3, "reward": 781},
+      {"day": 4, "reward": 976},
+      {"day": 5, "reward": 1220},
+      {"day": 6, "reward": 1525},
+      {"day": 7, "reward": 1906},
+      {"day": 8, "reward": 2382},
+      {"day": 9, "reward": 2977},
+      {"day": 10, "reward": 3721}
+    ],
+    "questions": [
+      {"question": "What is 2 + 2?", "answer": "4"},
+      {"question": "What is the capital of France?", "answer": "Paris"}
+    ],
+    "youtubeVideos": [
+      {"title": "Game Tutorial", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "reward": 10000},
+      {"title": "Advanced Tips", "url": "https://www.youtube.com/watch?v=abc123", "reward": 5000}
+    ]
+  }
+  
