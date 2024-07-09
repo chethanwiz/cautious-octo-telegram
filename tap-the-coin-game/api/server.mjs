@@ -90,8 +90,6 @@ app.post('/admin/rewards/delete', basicAuth, (req, res) => {
     });
 });
 
-// Existing game routes...
-
 app.post('/register', (req, res) => {
     const { userId, firstName, referrerId, isPremium } = req.body;
     if (!users[userId]) {
